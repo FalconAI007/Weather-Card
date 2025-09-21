@@ -12,7 +12,6 @@ I made this as part of my **ACM Club mini-project** while learning React.
 - 🌡️ Shows temperature, feels like, humidity, wind, and condition  
 - 🎨 Clean modern UI with light/dark modes  
 - 🌈 Animated gradient backgrounds that adapt to weather (rain, snow, sunny, mist, thunder)  
-- 📱 Fully responsive — works across desktop, tablet, and mobile  
 
 ---
 
@@ -32,7 +31,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-card.git
+git clone https://github.com/FalconAI007/Weather-Card.git
 cd weather-card
 ```
 
