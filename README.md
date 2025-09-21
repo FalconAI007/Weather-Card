@@ -58,7 +58,7 @@ REACT_APP_OPENWEATHER_KEY=your_api_key_here
 ### 4. Start the app
 
 ```bash
-npm start
+npm run dev
 ```
 
 The app will open at [http://localhost:3000](http://localhost:3000).
